@@ -1,7 +1,5 @@
 # Carta de Apresentação
 
-[TOC]
-
 #### Introdução
 
 Olá, me chamo Marcelo ,  sou um Desenvolvedor Full-Stack que é apaixonado por aprender (principalmente quando é relacionado a tecnologia), amo jogar vídeo game nas horas vagas e estudar.
