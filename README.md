@@ -133,7 +133,7 @@ C#, ASP.NET Core, Entity Framework Core, SQL Server, Docker, Git, Swagger, xUnit
 
 ### Analista Desenvolvedor Full Stack
 
-**Nov/2023 – Ago/2024**
+**Mar/2023 – Ago/2024**
 
 #### Principais Atividades
 
@@ -152,7 +152,7 @@ C#, ASP.NET, React.js, TypeScript, SQL Server.
 
 ### Analista Desenvolvedor
 
-**Ago/2021 – Ago/2023**
+**Set/2021 – Mar/2023**
 
 #### Principais Atividades
 
@@ -164,24 +164,6 @@ C#, ASP.NET, React.js, TypeScript, SQL Server.
 #### Tecnologias
 
 C#, ASP.NET MVC, SQL Server.
-
----
-
-## Interlink Soluções
-
-### Programador Analista
-
-**Out/2020 – Mar/2021**
-
-#### Principais Atividades
-
-* Desenvolvimento de sistemas corporativos.
-* Manutenção corretiva e evolutiva.
-* Implementação de melhorias de desempenho.
-
-#### Tecnologias
-
-C#, ASP.NET, SQL Server.
 
 ---
 
