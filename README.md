@@ -1,19 +1,256 @@
 # Carta de Apresentação
 
-#### Introdução
+# Marcelo de Lima Norvaes Peres
 
-Olá, me chamo Marcelo ,  sou um Desenvolvedor Full-Stack sou apaixonado por aprender (principalmente quando é relacionado a tecnologia), amo jogar vídeo game nas horas vagas e estudar.
+📍 Cotia/SP
+📱 (11) 99473-3640
+📧 [marcelo.de.lima.norvaes.peres@gmail.com](mailto:marcelo.de.lima.norvaes.peres@gmail.com)
+🔗 LinkedIn: [Inserir URL]
 
-#### Vida Acadêmica
+---
 
+# Analista Desenvolvedor de Sistemas | Desenvolvedor .NET
 
+## Resumo Profissional
 
-Formado em _**redes de computadores**_ na _**ETEC de Cotia**_, concluído em _**Junho de 2017**_ e Atualmente estudante do curso _**EaD**_ _**ciências da computação**_ na FMU , com previsão para conclusão do curso ao final de **_2023_**, além da faculdade costumo fazer diversos Bootcamps para aumentar meu conhecimento e colocar em pratica meu aprendizado, dá uma conferida em meus repositórios disponibilizados no **GitHub**.
+Analista Desenvolvedor de Sistemas com mais de 5 anos de experiência no desenvolvimento de sistemas corporativos, aplicações web, APIs REST e soluções para o mercado financeiro.
 
-#### Vida Profissional
+Atuação sólida utilizando C#, .NET Framework, .NET Core, ASP.NET MVC, ASP.NET Core, SQL Server e tecnologias modernas para construção de aplicações escaláveis e de alta disponibilidade.
 
-O começo de minha carreira na area da tecnologia foi em uma assistência técnica onde aprendi mais sobre **manutenção de computadores** , **metodologia no trabalho**, **instalação e configuração de SO** , **solda de componentes eletrônicos** e **cotação** após certo tempo trabalhando nessa empresa, apareceu uma oportunidade para trabalhar como **analista de suporte a redes** em um provedor de internet da região de Cotia e Taboão da Serra, lá aprendi sobre **analise de rede, testes de conexão, configuração de redes , fibra óptica e via rádio** .Atuei no time de Sustentação da Qualicorp onde atendia chamados relacionados a correção de erros de software e possivéis melhorias para as aplicações principais da companhia, lá resolvi problemas criticos como o Imposto de Renda de 2023 no qual liderei um pequeno time para resolver os problemas de integração ocasionados pela migração do sistema.
+Experiência na implementação de arquiteturas baseadas em Clean Architecture, princípios SOLID, Design Patterns, Domain Driven Design (DDD), Test Driven Development (TDD) e boas práticas de engenharia de software.
 
-#### Atualidade
+Participação ativa em projetos de modernização de sistemas legados, integrações corporativas, automação de processos e desenvolvimento de soluções críticas para instituições financeiras.
 
-Atualmente atuo no time de Desenvolvimento do Banco Industrial do Brasil onde atendo demandas solicitadas pela empresa e efetuo correções de erros no sistema interno do banco, atuando também nos sites institucionais e InternetBanking, utilizando principalmente MS SQL, C#, .Net e Node.Js.
+Busco oportunidades que permitam ampliar minha atuação técnica, contribuir com decisões arquiteturais e evoluir para posições de Desenvolvedor Sênior e Liderança Técnica.
+
+---
+
+# Competências Técnicas
+
+## Linguagens
+
+* C#
+* JavaScript
+* TypeScript
+* SQL
+
+## Backend
+
+* ASP.NET Framework
+* ASP.NET MVC
+* ASP.NET Core
+* Razor Pages
+* Web API REST
+* Entity Framework
+* Entity Framework Core
+* LINQ
+* AutoMapper
+* Dependency Injection
+* Identity
+* JWT Authentication
+
+## Arquitetura e Engenharia de Software
+
+* SOLID
+* Clean Architecture
+* Clean Code
+* Domain Driven Design (DDD)
+* Repository Pattern
+* Unit Of Work
+* Design Patterns
+* Test Driven Development (TDD)
+* Arquitetura em Camadas
+* Microsserviços (conceitos)
+* Integração de Sistemas
+
+## Testes
+
+* xUnit
+* Moq
+* FluentAssertions
+* Testes Unitários
+* Testes de Integração
+* Testes Automatizados
+
+## Frontend
+
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* jQuery
+* React.js
+* Blazor
+
+## Banco de Dados
+
+* SQL Server
+* PostgreSQL
+* MongoDB
+* Neo4j
+
+## Ferramentas e DevOps
+
+* Git
+* GitHub
+* Azure DevOps
+* Docker
+* Swagger / OpenAPI
+* Control-M
+* Pentaho
+* Visual Studio
+* SQL Server Management Studio
+
+---
+
+# Experiência Profissional
+
+## Banco Industrial do Brasil
+
+### Analista Desenvolvedor de Sistemas Pleno
+
+**Ago/2024 – Atual**
+
+#### Principais Atividades
+
+* Desenvolvimento e manutenção de sistemas corporativos do segmento bancário.
+* Desenvolvimento de APIs REST utilizando ASP.NET Core.
+* Implementação de arquiteturas baseadas em Clean Architecture.
+* Aplicação de princípios SOLID e boas práticas de engenharia de software.
+* Desenvolvimento de testes unitários utilizando xUnit, Moq e FluentAssertions.
+* Criação e manutenção de procedures, views e consultas avançadas em SQL Server.
+* Participação em definições técnicas e modelagem de soluções.
+* Desenvolvimento de integrações entre sistemas internos e externos.
+* Automação de processos operacionais e rotinas corporativas.
+
+#### Tecnologias
+
+C#, ASP.NET Core, Entity Framework Core, SQL Server, Docker, Git, Swagger, xUnit, Moq, FluentAssertions.
+
+---
+
+## Talent Four / Qualicorp
+
+### Analista Desenvolvedor Full Stack
+
+**Nov/2023 – Ago/2024**
+
+#### Principais Atividades
+
+* Desenvolvimento de novas funcionalidades para sistemas corporativos.
+* Correções e sustentação de aplicações em produção.
+* Integração entre sistemas internos.
+* Desenvolvimento frontend e backend.
+
+#### Tecnologias
+
+C#, ASP.NET, React.js, TypeScript, SQL Server.
+
+---
+
+## Resource Tecnologia / Qualicorp
+
+### Analista Desenvolvedor
+
+**Ago/2021 – Ago/2023**
+
+#### Principais Atividades
+
+* Desenvolvimento e manutenção de aplicações web.
+* Implementação de APIs e integrações.
+* Desenvolvimento de consultas, procedures e otimizações SQL.
+* Atendimento de demandas evolutivas e corretivas.
+
+#### Tecnologias
+
+C#, ASP.NET MVC, SQL Server.
+
+---
+
+## Interlink Soluções
+
+### Programador Analista
+
+**Out/2020 – Mar/2021**
+
+#### Principais Atividades
+
+* Desenvolvimento de sistemas corporativos.
+* Manutenção corretiva e evolutiva.
+* Implementação de melhorias de desempenho.
+
+#### Tecnologias
+
+C#, ASP.NET, SQL Server.
+
+---
+
+# Projetos em Destaque
+
+## BIB.Gestão
+
+Sistema corporativo para gestão de fornecedores, contratos e despesas.
+
+### Tecnologias
+
+* ASP.NET Core 9
+* Entity Framework Core
+* SQL Server
+* Clean Architecture
+* SOLID
+* DDD
+* TDD
+* xUnit
+* Moq
+* FluentAssertions
+* Swagger
+
+### Principais Responsabilidades
+
+* Definição da arquitetura da solução.
+* Modelagem das entidades de negócio.
+* Implementação dos serviços de aplicação.
+* Desenvolvimento de APIs REST.
+* Criação de testes automatizados.
+* Estruturação de repositórios e Unit of Work.
+
+---
+
+# Formação Acadêmica
+
+## Ciência da Computação
+
+FMU – Em andamento
+
+## Técnico em Redes de Computadores
+
+---
+
+# Diferenciais
+
+* Experiência no mercado financeiro e bancário.
+* Forte conhecimento em SQL Server.
+* Experiência com sistemas de alta criticidade.
+* Aplicação prática de SOLID, Clean Architecture e TDD.
+* Desenvolvimento orientado a testes.
+* Experiência em modernização de sistemas legados.
+* Perfil analítico e focado em qualidade de software.
+* Facilidade para aprendizado de novas tecnologias.
+* Interesse em arquitetura de software e liderança técnica.
+
+---
+
+# Idiomas
+
+## Inglês
+
+* Leitura: Avançado
+* Escrita: Avançado
+* Conversação: Intermediário
+
+---
+
+# Objetivo Profissional
+
+Atuar como Desenvolvedor .NET Sênior ou Analista Desenvolvedor Sênior, contribuindo com desenvolvimento de soluções escaláveis, definição de arquitetura, boas práticas de engenharia de software e evolução tecnológica das organizações.
+
