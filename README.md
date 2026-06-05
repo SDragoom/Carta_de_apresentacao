@@ -2,10 +2,10 @@
 
 # Marcelo de Lima Norvaes Peres
 
-📍 Cotia/SP
-📱 (11) 99473-3640
-📧 [marcelo.de.lima.norvaes.peres@gmail.com](mailto:marcelo.de.lima.norvaes.peres@gmail.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/marcelo-de-lima-norvaes-peres/](https://www.linkedin.com/in/marcelo-de-lima-norvaes-peres/)
+- 📍 Cotia/SP
+- 📱 (11) 99473-3640
+- 📧 [marcelo.de.lima.norvaes.peres@gmail.com](mailto:marcelo.de.lima.norvaes.peres@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/marcelo-de-lima-norvaes-peres/](https://www.linkedin.com/in/marcelo-de-lima-norvaes-peres/)
 
 ---
 
